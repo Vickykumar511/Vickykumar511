@@ -1,4 +1,4 @@
-[![MasterHead](https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif)]
+
 <h1 align="center">Hi 👋, I'm Vicky Kumar</h1>
 <h3 align="center">passionate about coding</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
